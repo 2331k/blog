@@ -19,7 +19,7 @@ hero:
 
 
 features:
-  - title: 功能一
+  - title: 功能
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: 功能二
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
